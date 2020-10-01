@@ -1,0 +1,19 @@
+﻿  test.cpp
+  [모의 SW 역량테스트] 벽돌 깨기.cpp
+  코드를 생성하고 있습니다...
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "void __cdecl remove(struct std::pair<int,int>,int,int,struct bkdol)" (?remove@@YAXU?$pair@HH@std@@HHUbkdol@@@Z)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: _main이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int N" (?N@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int W" (?W@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int H" (?H@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int T" (?T@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int Tcnt" (?Tcnt@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int ans" (?ans@@3HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int (* board)[13]" (?board@@3PAY0N@HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int (* tboard)[13]" (?tboard@@3PAY0N@HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int (* check)[13]" (?check@@3PAY0N@HA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int * order" (?order@@3PAHA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int * dx" (?dx@@3PAHA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "int * dy" (?dy@@3PAHA)이(가) test.obj에 이미 정의되어 있습니다.
+[모의 SW 역량테스트] 벽돌 깨기.obj : error LNK2005: "class std::queue<struct std::pair<int,int>,class std::deque<struct std::pair<int,int>,class std::allocator<struct std::pair<int,int> > > > wq" (?wq@@3V?$queue@U?$pair@HH@std@@V?$deque@U?$pair@HH@std@@V?$allocator@U?$pair@HH@std@@@2@@2@@std@@A)이(가) test.obj에 이미 정의되어 있습니다.
+C:\Users\박승섭\source\repos\[모의 SW 역량테스트] 벽돌 깨기\Debug\[모의 SW 역량테스트] 벽돌 깨기.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

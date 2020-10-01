@@ -1,0 +1,5 @@
+﻿  [2573] 빙산.cpp
+C:\Users\박승섭\source\repos\[2573] 빙산\[2573] 빙산\[2573] 빙산.cpp(46,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\[2573] 빙산\[2573] 빙산\[2573] 빙산.cpp(72,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\[2573] 빙산\[2573] 빙산\[2573] 빙산.cpp(79,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  [2573] 빙산.vcxproj -> C:\Users\박승섭\source\repos\[2573] 빙산\Debug\[2573] 빙산.exe

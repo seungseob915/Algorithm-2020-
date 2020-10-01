@@ -1,0 +1,8 @@
+﻿  13458(시험 감독).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\13458(시험 감독)\13458(시험 감독).cpp(16,19): warning C4244: '인수': '__int64'에서 'const unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\13458(시험 감독)\13458(시험 감독).cpp(26,18): warning C4244: '=': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  13458(시험 감독).vcxproj -> C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\13458(시험 감독).exe

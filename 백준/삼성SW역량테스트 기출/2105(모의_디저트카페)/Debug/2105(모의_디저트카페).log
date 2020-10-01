@@ -1,0 +1,4 @@
+﻿  2105(모의_디저트카페).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\2105(모의_디저트카페)\2105(모의_디저트카페).cpp(37,39): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\2105(모의_디저트카페)\2105(모의_디저트카페).cpp(38,45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+LINK : fatal error LNK1168: C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\2105(모의_디저트카페).exe을(를) 쓰기용으로 열 수 없습니다.

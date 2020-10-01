@@ -1,0 +1,5 @@
+﻿  15684(사다리 조작).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\사다리 조작(15684)\15684(사다리 조작).cpp(70,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\사다리 조작(15684)\15684(사다리 조작).cpp(84,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\사다리 조작(15684)\15684(사다리 조작).cpp(98,35): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  사다리 조작(15684).vcxproj -> C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\15684(사다리 조작).exe

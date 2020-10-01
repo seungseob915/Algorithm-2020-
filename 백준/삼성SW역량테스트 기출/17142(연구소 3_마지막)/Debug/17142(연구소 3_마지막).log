@@ -1,0 +1,4 @@
+﻿  17142(연구소 3_마지막).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\17142(연구소 3_마지막)\17142(연구소 3_마지막).cpp(82,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\17142(연구소 3_마지막)\17142(연구소 3_마지막).cpp(96,31): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  17142(연구소 3_마지막).vcxproj -> C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\17142(연구소 3_마지막).exe

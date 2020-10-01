@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (17142(연구소3).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  17142(연구소3).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\17142(연구소3)\17142(연구소3).cpp(63,27): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  17142(연구소3).vcxproj -> C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\17142(연구소3) timeOver.exe

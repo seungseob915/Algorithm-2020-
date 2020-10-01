@@ -1,0 +1,4 @@
+﻿  [1차] 비밀지도.cpp
+C:\Users\박승섭\source\repos\프로그래머스\[1차] 비밀지도\[1차] 비밀지도.cpp(20,7): warning C4101: 't_t1' :참조되지 않은 지역 변수입니다.
+C:\Users\박승섭\source\repos\프로그래머스\[1차] 비밀지도\[1차] 비밀지도.cpp(21,7): warning C4101: 't_t2' :참조되지 않은 지역 변수입니다.
+  [1차] 비밀지도.vcxproj -> C:\Users\박승섭\source\repos\프로그래머스\Debug\[1차] 비밀지도.exe

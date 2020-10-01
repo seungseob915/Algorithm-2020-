@@ -1,0 +1,5 @@
+﻿  [14502] 연구소.cpp
+C:\Users\박승섭\source\repos\[14502] 연구소\[14502] 연구소\[14502] 연구소.cpp(37,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\[14502] 연구소\[14502] 연구소\[14502] 연구소.cpp(56,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\[14502] 연구소\[14502] 연구소\[14502] 연구소.cpp(64,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  [14502] 연구소.vcxproj -> C:\Users\박승섭\source\repos\[14502] 연구소\Debug\[14502] 연구소.exe

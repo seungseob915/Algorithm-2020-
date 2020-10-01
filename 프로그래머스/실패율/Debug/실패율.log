@@ -1,0 +1,7 @@
+﻿  실패율.cpp
+C:\Users\박승섭\source\repos\프로그래머스\실패율\실패율.cpp(14,17): warning C4552: '<': 식의 결과가 사용되지 않습니다.
+C:\Users\박승섭\source\repos\프로그래머스\실패율\실패율.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\프로그래머스\실패율\실패율.cpp(48,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\프로그래머스\실패율\실패율.cpp(52,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\프로그래머스\실패율\실패율.cpp(17): warning C4715: 'cmp': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  실패율.vcxproj -> C:\Users\박승섭\source\repos\프로그래머스\Debug\실패율.exe

@@ -1,0 +1,4 @@
+﻿  17142(연구소 3).cpp
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\17142(연구소 3)\17142(연구소 3).cpp(26,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\17142(연구소 3)\17142(연구소 3).cpp(68,25): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+  17142(연구소 3).vcxproj -> C:\Users\박승섭\source\repos\삼성SW역량테스트 기출\Debug\17142(연구소 3).exe

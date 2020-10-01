@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[14620] 꽃길", "[14620] 꽃길\[14620] 꽃길.vcxproj", "{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Debug|x64.ActiveCfg = Debug|x64
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Debug|x64.Build.0 = Debug|x64
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Debug|x86.Build.0 = Debug|Win32
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Release|x64.ActiveCfg = Release|x64
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Release|x64.Build.0 = Release|x64
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Release|x86.ActiveCfg = Release|Win32
+		{97C55D13-1CAF-4C2A-BDB3-05416BDEDCFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C7D548E-9D01-4506-B2EF-DC0CC1C31005}
+	EndGlobalSection
+EndGlobal

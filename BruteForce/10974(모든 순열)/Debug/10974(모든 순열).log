@@ -1,0 +1,4 @@
+﻿  10974(모든 순열).cpp
+C:\Users\박승섭\source\repos\SW TEST BruteForce\10974(모든 순열)\10974(모든 순열).cpp(13,16): warning C4101: 'count' :참조되지 않은 지역 변수입니다.
+C:\Users\박승섭\source\repos\SW TEST BruteForce\10974(모든 순열)\10974(모든 순열).cpp(13,12): warning C4101: 'in' :참조되지 않은 지역 변수입니다.
+  10974(모든 순열).vcxproj -> C:\Users\박승섭\source\repos\SW TEST BruteForce\Debug\10974(모든 순열).exe
