@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[17472] 다리만들기2(retry)", "[17472] 다리만들기2(retry)\[17472] 다리만들기2(retry).vcxproj", "{B2BD90AA-4280-4F5A-981C-2DB6870904BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Debug|x64.ActiveCfg = Debug|x64
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Debug|x64.Build.0 = Debug|x64
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Debug|x86.Build.0 = Debug|Win32
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Release|x64.ActiveCfg = Release|x64
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Release|x64.Build.0 = Release|x64
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Release|x86.ActiveCfg = Release|Win32
+		{B2BD90AA-4280-4F5A-981C-2DB6870904BC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0134250F-223E-4436-A248-02C5421EF863}
+	EndGlobalSection
+EndGlobal
