@@ -1,2 +1,4 @@
 ﻿  [17472] 다리만들기2(retry).cpp
-  [17472] 다리만들기2(retry).vcxproj -> C:\Users\박승섭\source\repos\[17472] 다리만들기2(retry)\Debug\[17472] 다리만들기2(retry).exe
+C:\Users\박승섭\source\repos\백준\[17472] 다리만들기2(retry)\[17472] 다리만들기2(retry)\[17472] 다리만들기2(retry).cpp(62,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\박승섭\source\repos\백준\[17472] 다리만들기2(retry)\[17472] 다리만들기2(retry)\[17472] 다리만들기2(retry).cpp(141,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  [17472] 다리만들기2(retry).vcxproj -> C:\Users\박승섭\source\repos\백준\[17472] 다리만들기2(retry)\Debug\[17472] 다리만들기2(retry).exe

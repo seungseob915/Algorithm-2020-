@@ -122,7 +122,7 @@ int main()
 		}
 		time++;
 
-		/*for (int i = 1; i <= M; i++) {
+		for (int i = 1; i <= M; i++) {
 			if (s[i].dead) continue;
 			board[s[i].x][s[i].y] = i;
 		}
@@ -142,7 +142,7 @@ int main()
 			}
 			cout << endl;
 		}
-		cout << endl;*/
+		cout << endl;
 	}
 
 	if (time == 1001)
