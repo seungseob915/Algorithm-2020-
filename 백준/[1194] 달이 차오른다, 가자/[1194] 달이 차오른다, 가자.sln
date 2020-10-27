@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "[1194] 달이 차오른다, 가자", "[1194] 달이 차오른다, 가자\[1194] 달이 차오른다, 가자.vcxproj", "{D8491DBC-91B6-4544-A3BC-619DEF2DAE00}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.vcxproj", "{932525CD-9E05-467B-805D-2866A3ED9B29}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,14 +21,6 @@ Global
 		{D8491DBC-91B6-4544-A3BC-619DEF2DAE00}.Release|x64.Build.0 = Release|x64
 		{D8491DBC-91B6-4544-A3BC-619DEF2DAE00}.Release|x86.ActiveCfg = Release|Win32
 		{D8491DBC-91B6-4544-A3BC-619DEF2DAE00}.Release|x86.Build.0 = Release|Win32
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Debug|x64.ActiveCfg = Debug|x64
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Debug|x64.Build.0 = Debug|x64
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Debug|x86.ActiveCfg = Debug|Win32
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Debug|x86.Build.0 = Debug|Win32
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Release|x64.ActiveCfg = Release|x64
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Release|x64.Build.0 = Release|x64
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Release|x86.ActiveCfg = Release|Win32
-		{932525CD-9E05-467B-805D-2866A3ED9B29}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
